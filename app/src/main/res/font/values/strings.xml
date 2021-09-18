@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Challenge4_RockPaperScissors</string>
+    <string name="text_player1">Player 1</string>
+    <string name="text_player2">Player 2</string>
+    <string name="text_com">COM</string>
+    <string name="text_tv_result">Result</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Text.32" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pixelated_font</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="Text.32.Black" parent="Text.32">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Text.32.LightBlue" parent="Text.32">
+        <item name="android:textColor">@color/colorTvResult</item>
+    </style>
+</resources>
